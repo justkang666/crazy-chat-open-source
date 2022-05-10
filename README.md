@@ -73,7 +73,7 @@
   - 如果你想加入我们一同打造更多好玩更有意思的开源项目 QQ：246620179
   - 如果觉得有帮助记得starss
   - 项目开源地址：
-    - github：
+    - github：https://github.com/justkang666/crazy-chat-open-source
     - gitee：https://gitee.com/justkang/crazy-chat-open-source/
     - 视频介绍：
 
