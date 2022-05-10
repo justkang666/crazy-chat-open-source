@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/crazy-chat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/crazy_chatNodeServer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/server_crazychat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/server_crazychat/crazy_chatNodeServer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vue-manage-system" vcs="Git" />
+  </component>
+</project>
