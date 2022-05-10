@@ -123,7 +123,7 @@ module.exports = (app)=>{
             res.send('头像上传失败22')
           }else{
             console.log('写入成功！');
-            const url = 'http://192.168.0.105:8800/' + path.replace('public',"")
+            const url = 'http://localhost:8800/' + path.replace('public',"")
             updataUser({viaUrl:url},crazytoken,res)
           }
       })
