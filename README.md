@@ -74,6 +74,6 @@
   - 如果觉得有帮助记得starss
   - 项目开源地址：
     - github：
-    - gitee：
+    - gitee：https://gitee.com/justkang/crazy-chat-open-source/
     - 视频介绍：
 
