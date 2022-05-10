@@ -16,16 +16,19 @@
 ## 项目目录及运行
     客户端 (8080端口)
     cd crazy-chat
+    npm install
     npm run serve
 ![img_1.png](img_1.png)
     
     服务端(依赖mongodb 连接到27017/justkang ) (8800端口和8801端口【socket服务】)
     cd crazy_chatNodeServer
+    npm install
     nodemon index.js  或者 node index.js
 ![img.png](img.png)
 
     后台系统 （3000端口）
     cd vue-manage-system
+    npm install
     npm run dev
 ![img_2.png](img_2.png)
 
@@ -75,5 +78,5 @@
   - 项目开源地址：
     - github：https://github.com/justkang666/crazy-chat-open-source
     - gitee：https://gitee.com/justkang/crazy-chat-open-source/
-    - 视频介绍：
+    - 视频介绍：https://www.bilibili.com/video/BV15A4y1S7Zj?spm_id_from=333.999.0.0
 
